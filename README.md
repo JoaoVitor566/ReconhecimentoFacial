@@ -1,4 +1,4 @@
-# ReconhecimentoFacial
+#FacialRecognition
 
 This is a Python application for face recognition using the Face Recognition library, OpenCV, and TensorFlow. The application captures video from a webcam, detects faces in real-time, and recognizes known faces based on previously saved face encodings. If an unknown face is detected, it prompts the user to enter their name and saves the encoding for future recognition.
 
